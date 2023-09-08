@@ -1,2 +1,2 @@
-pandas version--3.9.2rc1
-sklearn 
+pandas 
+scikit-learn
